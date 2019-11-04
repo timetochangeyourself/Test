@@ -1,3 +1,3 @@
-EMAIL_ADDRESS = "testingsergosend@gmail.com"
+EMAIL_ADDRESS = "testingsergosend3@gmail.com"
 PASSWORD = "testingsergosend123"
-EMAIL_ADDRESStest = "cyda@getnada.com"
+#EMAIL_ADDRESStest = "foxo@getnada.com"
